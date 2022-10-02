@@ -1,0 +1,22 @@
+.filter {
+  justify-content: start;
+  background-color: #fff;
+  background-size: cover;
+  color: #000;
+  list-style-type: none;
+  position: relative;
+  right: 256px;
+  top: 30px;
+  width: 200px;
+  z-index: 2;
+}
+
+.filter__li {
+  background-color: #fff;
+  z-index: 2;
+}
+
+.filter__li:hover {
+  cursor: pointer;
+  background-color: slategrey;
+}

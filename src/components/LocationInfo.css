@@ -1,0 +1,14 @@
+.location {
+  margin: 0 auto;
+  width: 90%;
+  background-color: #062226;
+  display: flex;
+  justify-content: space-around;
+  min-height: 100px;
+  align-items: center;
+  font-size: 1.2rem;
+} 
+
+span  {
+  font-weight: 700;
+}
